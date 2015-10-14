@@ -1,0 +1,12 @@
+{
+  "name": "html-css-challenge",
+  "version": "0.1.0",
+  "description": "HTML / CSS Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Jeffrey Wescott <jeffrey.wescott@gmail.com>",
+  "license": "ISC"
+}
