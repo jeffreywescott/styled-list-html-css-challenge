@@ -8,5 +8,8 @@
     "start": "node index.js"
   },
   "author": "Jeffrey Wescott <jeffrey.wescott@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
