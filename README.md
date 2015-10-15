@@ -17,14 +17,16 @@ you are in the `styled-list-html-css-challenge` folder. If you are not, you can 
 this command:
 
     $ cd styled-list-html-css-challenge
-    
+
 Once you're in that folder, you can run the "web server" with this command (so that\
 you can view your work):
 
     $ node index.js
-    
+
 After that, use the Nitrous.io `Preview --> Port 3000` menu option and you'll see the
 results of what you've done.
+
+Once you have a solution, send me an email and I'll check your work. :-)
 
 
 ## Hints
