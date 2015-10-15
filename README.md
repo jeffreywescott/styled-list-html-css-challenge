@@ -5,6 +5,8 @@ list to create a menu-like effect.
 
 See this video: https://youtu.be/ifORrQzU-Y8
 
+You should only have to edit: `index.html` and `main.css`.
+
 ## Hints
 
 - read-up on HTML unordered lists
